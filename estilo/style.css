@@ -77,6 +77,11 @@ nav {
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.281);
 }
 
+nav p {
+    font-size: 5em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
 nav > a {
     color: var(--cor0);
     padding: 10px;
